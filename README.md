@@ -8,7 +8,7 @@ HAC-2020 team brute_force:
 
 # Our Idea: 
 
-#### Please find the screenshots, and documentation in the repo and the PDF uploaded.
+#### Please find the screenshots, and documentation in the repo and the PDF uploaded. Note we have attached two screenshots of the app in the end of this Readme file
 **PROBLEMS IN EXISTING TECHNOLOGY AND MOTIVATION OF OUR WORK**
 All of our team members are college-going students and we are facing a lot of problems in communicating with our college administration and teachers. Our college is using some remote education apps for online classes- Microsoft Team app and zoom app for administrative meetings and individual one to one meetings. Below written problems are some major one that teachers and students are facing in existing technology:-
 
@@ -56,6 +56,10 @@ Many teachers and tutors are tensed for a secure testing platform. There many pl
 Our second part of the submission consist of a ROBOCARE APP for Covid19 doctors and patients also we have built a robot to transfer essential good to patients keeping social distancing in mind which moves following gestures by hand. Also this can be used as a wheelchair for week patients. And in final touch we devised an Image learning algorithm which is connected to the firebase cloud storage and give alerts in app when the patient make face gesture to call for help since they can speak and move their body a simple gesture will do good for these patients.
 
 We are using an ESP8266 microcontroller to connect the device with the cloud and with the image processing system. And our app is also connected with the same cloud storage so if patient will make gestures, an alarm will ring in the app. Also the temperature and heartbeat reading will be sent to cloud in real-time basis and all of this will be available in our app through which doctor can make report of patients following social distancing.
+
+## Screenshots:
+![app1](https://github.com/HAC-2020/brute_force/blob/master/REMOTE%20EDUCATION%20APP/ScreenShots/Screenshot_20200524-161511.png)
+![app2](https://github.com/HAC-2020/brute_force/blob/master/ROBOCARE/ROBOCARE%20SCREENSHOTS/Screenshot_20200524-162706%20(1).png)
 
 
 
