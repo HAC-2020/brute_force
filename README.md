@@ -11,6 +11,8 @@ HAC-2020 team brute_force:
 #### Please find the screenshots, and documentation in the repo and the PDF uploaded. Note we have attached two screenshots of the app in the end of this Readme file
 [Click me to Check our work on YouTube](https://www.youtube.com/watch?v=MY9zdq7y7Cg)
 
+[Download the APKs here](https://drive.google.com/drive/folders/11tRBjvToXqCgR1njtIdjFUqnxfJjtD77?usp=sharing)
+
 
 **PROBLEMS IN EXISTING TECHNOLOGY AND MOTIVATION OF OUR WORK**
 All of our team members are college-going students and we are facing a lot of problems in communicating with our college administration and teachers. Our college is using some remote education apps for online classes- Microsoft Team app and zoom app for administrative meetings and individual one to one meetings. Below written problems are some major one that teachers and students are facing in existing technology:-
